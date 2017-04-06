@@ -1,0 +1,7 @@
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\bin\Debug\LineOT.exe.config
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\bin\Debug\LineOT.exe
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\bin\Debug\LineOT.pdb
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\bin\Debug\Thrift.dll
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\obj\Debug\LineOT.csprojResolveAssemblyReference.cache
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\obj\Debug\LineOT.exe
+c:\users\zachv\documents\visual studio 2015\Projects\LineOT\LineOT\obj\Debug\LineOT.pdb
